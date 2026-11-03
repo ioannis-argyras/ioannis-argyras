@@ -2,7 +2,7 @@
 
 B2B sales, builder, co-founder.
 
-I sell to businesses and build products with AI. With a partner from the sport I co-founded Equicade, a B2B marketplace for show-jumping horses. Apothaika, my invoice app, is in closed beta with three businesses, and Museumy, my audio-guide app, already has an exhibition partner in Athens. At work I built the prospecting map that became the sales team's only source of customers and took our fiber contracts from 10–15 to 50–60 a month. Almost three years in B2B sales, 5x my target in the first year. BSc in Informatics Engineering.
+I sell to businesses and build products with AI. With a partner from the sport I co-founded Equicade, a B2B marketplace for show-jumping horses. Apothaika, my invoice app, is in closed beta with three businesses, and Museumy, my audio-guide app, already has an exhibition partner in Athens. At work I built the prospecting map that became the sales team's only source of customers and took our fiber contracts from 10–15 to 50–60 a month. 3 years in B2B sales, 5x my target in the first year. BSc in Informatics Engineering.
 
 Each project has its own page with the problem, what I built and the result. No code and no customer data.
 
