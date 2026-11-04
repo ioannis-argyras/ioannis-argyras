@@ -94,7 +94,7 @@ Before each call the rep sees what to say: whether fiber reached the building, w
 
 **How I worked.** I built it with AI-assisted development. I decided what the map had to answer, tested it on my own calls and changed it from daily use. Each new coverage file goes through a check for suspicious address numbers before the maps are rebuilt.
 
-![A business open for a call: what to say (fiber in the building, a neighbour who is already a customer, measured speed), the phone and the call history, with the next calls and a map of the street beside it](images/prospecting-map.png)
+![The call screen: today's call list on the left, the business on the call in the middle (what to say, the phone, every note, the outcome) and the map on the right, with the nearest businesses and the distance to one of them](images/prospecting-map.png)
 
 *Demo data: the streets, buildings, businesses and coverage are made up. The real map holds customer and company data.*
 
