@@ -86,7 +86,7 @@ Site for the beta: [apothaika.gr](https://apothaika.gr)
 - Ookla open speed data
 - Google Places, for the businesses themselves
 
-A rep opens a business and sees whether fiber is available, whether another provider already has fiber in the building, and the measured speed in the area. The rep then logs the outcome of the call, sets a callback and records when the current contract ends, so the next call happens on time.
+Before each call the rep sees what to say: whether fiber reached the building, which neighbour is already a customer, and the measured speed in the area. After the call the rep logs the outcome, sets a callback and records when the current contract ends, so the next call happens on time.
 
 **Result.** The team uses it every day as its only source of prospects. After the map and a new sales process went in, the team's fiber contracts rose from 10–15 to 50–60 a month.
 
@@ -94,7 +94,7 @@ A rep opens a business and sees whether fiber is available, whether another prov
 
 **How I worked.** I built it with AI-assisted development. I decided what the map had to answer, tested it on my own calls and changed it from daily use. Each new coverage file goes through a check for suspicious address numbers before the maps are rebuilt.
 
-![A business open for a call: fiber status in its building, competing fiber, call outcome, callback and notes, with the map beside it](images/prospecting-map.png)
+![A business open for a call: what to say (fiber in the building, a neighbour who is already a customer, measured speed), the phone and the call history, with the next calls and a map of the street beside it](images/prospecting-map.png)
 
 *Demo data: the streets, buildings, businesses and coverage are made up. The real map holds customer and company data.*
 
