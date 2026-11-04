@@ -112,7 +112,13 @@ A rep opens a business and sees whether fiber is available, whether another prov
 - One file per company, with the research, every message word for word and the replies
 - A chat inside the app that reads those files and can search the web, so I can look something up from my phone
 
-![Pipeline: one column per stage, each card with its next step and date](images/job-hunter.png)
+![Today on desktop: what is overdue, due today and in the next seven days, with the selected company open on the right](images/job-hunter.png)
+
+<p>
+<img src="images/job-hunter-phone.png" width="32%" alt="Today on the phone: filter tiles and the list of next steps">
+<img src="images/job-hunter-phone-company.png" width="32%" alt="A company on the phone: actions, stage, next step and history">
+<img src="images/job-hunter-phone-chat.png" width="32%" alt="The chat inside the app, answering what is due today">
+</p>
 
 *Demo data: the companies and people are made up.*
 
