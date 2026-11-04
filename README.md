@@ -15,7 +15,7 @@ Each project below has the problem, what I built and the result. No code and no 
 | [Job Hunter](#job-hunter) | Job-search CRM with AI that knows what's next and who I spoke to | All organised: I know who I spoke to and when |
 | [Sales points tracker](#sales-points-tracker) | Points and bonus from the back-office Excel | Used by the whole team |
 
-Based in Thessaloniki, Greece. Contact: [LinkedIn](https://www.linkedin.com/in/ioannis-argiras/)
+Based in Thessaloniki, Greece. Contact: [LinkedIn](https://www.linkedin.com/in/ioannis-argyras/)
 
 ## Equicade
 
